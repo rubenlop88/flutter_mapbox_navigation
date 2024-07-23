@@ -13,7 +13,7 @@ Add Turn By Turn Navigation to Your Flutter Application Using MapBox. Never leav
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Emmanuel Peter Oche' => 'eopeter@gmail.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'flutter_mapbox_navigation/Sources/flutter_mapbox_navigation/**/*.swift'
   s.dependency 'Flutter'
   s.dependency 'MapboxCoreNavigation', '~> 2.11'
   s.dependency 'MapboxNavigation', '~> 2.11'
